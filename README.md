@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @EvaMicheva
-- 👀 I’m interested in software development and learning programming languages
-- 🌱 I’m currently learning Python
+- 🩺 Veterinary Technician using tech to make pet care simpler and safer.
+- 🐍 Currently learning Django and Python by building real, hands-on projects.
+- 🎯 Goal: combine clinical experience with clean, helpful software.
 
 <!---
 EvaMicheva/EvaMicheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
